@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Correr 2 vezes por semana",
+    "checked": true
+  },
+  {
+    "value": "Estudar teoria musical 1 vez por semana",
+    "checked": true
+  },
+  {
+    "value": "Passear com o cachorro 10 minutos ao dia",
+    "checked": false
+  }
+]
